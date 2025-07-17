@@ -13,7 +13,7 @@ const Navbar = () => {
                 <Link href='/about'><li>About</li></Link> */}
                 <li className='flex md:gap-3 gap-1'>
                 <Link href='/shorten'><button className='bg-purple-900 rounded-lg md:p-3 p-1.5 py-2 font-bold shadow-lg'>Try Now</button></Link>
-                <Link href='/linkedin'><button className='bg-purple-900 rounded-lg md:p-3 p-1.5 py-2 font-bold shadow-lg'>Linked In</button></Link>
+                <Link href='/www.linkedin.com/in/rushilbanger'><button className='bg-purple-900 rounded-lg md:p-3 p-1.5 py-2 font-bold shadow-lg'>Linked In</button></Link>
                </li>
             </ul >
         </nav >
