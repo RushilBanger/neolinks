@@ -14,7 +14,7 @@ export default function Home() {
           </p>
               <div className='flex gap-3 text-white justify-start'>
                 <Link href='/shorten'><button className='bg-purple-900 rounded-lg p-3 py-2 font-bold shadow-lg'>Try Now</button></Link>
-                <Link href='/www.linkedin.com/in/rushilbanger'><button className='bg-purple-900 rounded-lg p-3 py-2 font-bold shadow-lg'>Linked In</button></Link>
+                <Link href='https://www.linkedin.com/in/rushilbanger/'><button className='bg-purple-900 rounded-lg p-3 py-2 font-bold shadow-lg'>Linked In</button></Link>
                </div>
         </div>
         <div className="bg-purple-200 md:h-[60vh] h-[40vh] md:w-4xl flex items-baseline  relative top-20" >
